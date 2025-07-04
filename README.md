@@ -4,7 +4,7 @@ These are a few files attached to show the code I used for a few examples in my 
 ## The files attached
 Attached is the code for three of the examples which can be found in my report:
 
-- Example 5.3.3 (simple_pdes.py)
+- Example 5.3.3 (simple_pde.py)
 - Section 5.4 (L_shaped_polar_coordinates.py)
 - Example 6.2.2 (deep_ritz_penalty_L_shaped.py)
 
